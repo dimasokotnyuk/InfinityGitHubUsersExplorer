@@ -6,5 +6,10 @@ Technologies Used :
 - URLSession – for making HTTP requests
 - MVVM architecture – to separate concerns and manage state
 - GitHub API – as the data source
+
+
+
+
+
 ![](https://github.com/dimasokotnyuk/InfinityGitHubUsersExplorer/blob/main/Demonstration.gif?raw=true)
 
